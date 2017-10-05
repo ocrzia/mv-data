@@ -23,6 +23,10 @@
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat",
 			"age": "-3"
+		},
+		{
+			"photo": "https://cdn.rawgit.com/ocrzia/mv-data/fdde534b7d3290bedb8761d422bd5828c7affed5/images/15072064795842100651266.jpg",
+			"name": "Shrallseb"
 		}
 	]
 }
